@@ -797,7 +797,7 @@ const emojiItems = [
     },
     {
         title: "Home Alone",
-        emojiImgs: "🏠🙈🎄",
+        emojiImgs: "👦🏠🎄😱",
         genres: ["comedy", "family"],
         type: "movie",
         year: 1990
@@ -928,7 +928,7 @@ const emojiItems = [
     },
     {
         title: "Kiki's Delivery Service",
-        emojiImgs: "👧🐱🧹📫",
+        emojiImgs: "👧🧹🐱📫",
         genres: ["animated"],
         type: "movie",
         year: 1989
@@ -1411,7 +1411,7 @@ const emojiItems = [
     },
     {
         title: "Remember the Titans",
-        emojiImgs: "🏉🏫🌍🔥",
+        emojiImgs: "🏈🏫👨🏿‍🤝‍👨🏼",
         genres: ["Biography", "Drama", "Sport"],
         type: "movie",
         year: 2000,
